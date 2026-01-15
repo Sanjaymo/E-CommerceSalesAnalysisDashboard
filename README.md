@@ -118,7 +118,7 @@ This dashboard enables stakeholders to:
 ### Steps to Use
 1. Clone this repository
    ```bash
-   git clone https://github.com/Sanjaymo/FUTURE_DS_01.git
+   git clone https://github.com/Sanjaymo/E-CommerceSalesAnalysisDashboard.git
    ```
 2. Open the `.pbix` file in Power BI Desktop
 3. Refresh data connections if needed
@@ -162,7 +162,6 @@ This dashboard enables stakeholders to:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### ⭐ Acknowledgments
-- Internship Organization: [Future Interns](https://futureinterns.com/)
 - Dataset Source: E-commerce transactional data (2009-2010)
 - Power BI Community for continuous learning resources
 
